@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TextObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sentences>
+    <SentenceObject index="1001" checkbox="false" text="Quel temps de chien !" fade="false" fadeDuration="1" fadeInDuration="5" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="false" stopTheme="false" characterName="  " delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images>
+        <ImageObject imagePath="Assets/Resources/images/Visuel/Scene_01/BG_001.jpg" isImage="true" appearAfterSentence="false" animDuration="10" beginPosX="200" beginPosY="0" beginRot="0" beginScaleX="1.25" beginScaleY="1" endPosX="-200" endPosY="0" endRot="0" endScaleX="1.25" endScaleY="1" ease="true" easeOut="true" />
+      </Images>
+      <Sounds />
+      <Themes>
+        <SoundObject soundPath="Assets/Resources/Audio/Elliott.mp3" soundName="Elliott" delayBeforeAppear="0" fadeInDuration="0" fadeOutDuration="5" loop="false" />
+        <SoundObject soundPath="Assets/Resources/Audio/rain_heavy.ogg" soundName="" delayBeforeAppear="0" fadeInDuration="0" fadeOutDuration="5" loop="false" />
+      </Themes>
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="1002" checkbox="false" text="S’il y a bien une chose que je ne regretterai pas, c’est cette foutue météo !" fade="false" fadeDuration="1" fadeInDuration="1" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="Elliott" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images>
+        <ImageObject imagePath="Assets/Resources/Prefabs/New Sprite.prefab" isImage="false" appearAfterSentence="false" animDuration="0" beginPosX="0" beginPosY="0" beginRot="0" beginScaleX="1" beginScaleY="1" endPosX="0" endPosY="0" endRot="0" endScaleX="1" endScaleY="1" ease="false" easeOut="false" />
+      </Images>
+      <Sounds />
+      <Themes>
+        <SoundObject soundPath="" soundName="rain_heavy" delayBeforeAppear="1" fadeInDuration="1" fadeOutDuration="14" loop="false" />
+      </Themes>
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="1003" checkbox="false" text="Mais quand j’y réfléchi, je me dis qu’il n’y a pas tellement de choses qui me vont manquer en vérité." fade="false" fadeDuration="1" fadeInDuration="1" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="true" characterName="Elliott" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes>
+        <SoundObject soundPath="" soundName="" delayBeforeAppear="0" fadeInDuration="0" fadeOutDuration="0" loop="false" />
+        <SoundObject soundPath="" soundName="" delayBeforeAppear="0" fadeInDuration="0" fadeOutDuration="0" loop="false" />
+      </Themes>
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="1004" checkbox="false" text="Probablement mes deux, trois amis, au début." fade="false" fadeDuration="1" fadeInDuration="1" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="false" stopTheme="false" characterName="Homme sur le banc" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images>
+        <ImageObject imagePath="Assets/Resources/images/Visuel/Scence_07/007.jpg" isImage="true" appearAfterSentence="false" animDuration="0" beginPosX="0" beginPosY="0" beginRot="0" beginScaleX="1" beginScaleY="1" endPosX="0" endPosY="0" endRot="0" endScaleX="1" endScaleY="1" ease="false" easeOut="true" />
+      </Images>
+      <Sounds />
+      <Themes>
+        <SoundObject soundPath="" soundName="" delayBeforeAppear="0" fadeInDuration="0" fadeOutDuration="0" loop="false" />
+      </Themes>
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="1005" checkbox="false" text="Et encore, cela fait déjà quelques temps que l’on ne se voit plus beaucoup." fade="false" fadeDuration="1" fadeInDuration="1" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="Homme sur le banc" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes>
+        <SoundObject soundPath="" soundName="" delayBeforeAppear="0" fadeInDuration="0" fadeOutDuration="0" loop="false" />
+        <SoundObject soundPath="" soundName="" delayBeforeAppear="0" fadeInDuration="0" fadeOutDuration="0" loop="false" />
+      </Themes>
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="2001" checkbox="false" text="Mon chat, lui, sera sûrement plus heureux chez quelqu’un d’autre..." fade="true" fadeDuration="5" fadeInDuration="5" fadeColorR="1" fadeColorG="0.308823526" fadeColorB="0.308823526" crossfade="false" keepPreviousImages="false" stopTheme="false" characterName="  " delayBeforeAppear="5" inaccessible="false" isSMS="false">
+      <Images>
+        <ImageObject imagePath="Assets/Resources/images/Visuel/Scene_02/002.jpg" isImage="true" appearAfterSentence="false" animDuration="10" beginPosX="0" beginPosY="0" beginRot="0" beginScaleX="1.25" beginScaleY="1.25" endPosX="0" endPosY="0" endRot="0" endScaleX="1" endScaleY="1" ease="true" easeOut="true" />
+        <ImageObject imagePath="Assets/Resources/images/Visuel/Scene_02/002B.png" isImage="true" appearAfterSentence="false" animDuration="10" beginPosX="0" beginPosY="0" beginRot="0" beginScaleX="1" beginScaleY="1" endPosX="0" endPosY="0" endRot="0" endScaleX="1.25" endScaleY="1.25" ease="true" easeOut="true" />
+      </Images>
+      <Sounds />
+      <Themes>
+        <SoundObject soundPath="" soundName="" delayBeforeAppear="0" fadeInDuration="0" fadeOutDuration="0" loop="false" />
+      </Themes>
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="2002" checkbox="false" text="Je pensais que partir serait plus difficile." fade="false" fadeDuration="1" fadeInDuration="1" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="  " delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes>
+        <SoundObject soundPath="" soundName="" delayBeforeAppear="0" fadeInDuration="0" fadeOutDuration="0" loop="false" />
+      </Themes>
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="2003" checkbox="false" text="Ce qui est sûr, c’est que je me casse !" fade="false" fadeDuration="1" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="Elliott" delayBeforeAppear="0" inaccessible="false" isSMS="true">
+      <Images />
+      <Sounds />
+      <Themes>
+        <SoundObject soundPath="" soundName="" delayBeforeAppear="0" fadeInDuration="0" fadeOutDuration="0" loop="false" />
+      </Themes>
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="2004" checkbox="false" text="Fini la pluie, les bus en retards, les téléphones qui vous harcèlent toute la journée !" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="  " delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="3001" checkbox="false" text="Je quitte ce trou pour rejoindre ma petite Emma ! Enfin !" fade="true" fadeDuration="1" fadeInDuration="1" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="false" stopTheme="false" characterName="  " delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images>
+        <ImageObject imagePath="Assets/Resources/images/Visuel/Scene_03/003.jpg" isImage="true" appearAfterSentence="false" animDuration="0" beginPosX="0" beginPosY="0" beginRot="0" beginScaleX="1" beginScaleY="1" endPosX="0" endPosY="0" endRot="0" endScaleX="1" endScaleY="1" ease="true" easeOut="true" />
+        <ImageObject imagePath="Assets/Resources/images/Visuel/Scene_03/003B.png" isImage="true" appearAfterSentence="false" animDuration="0" beginPosX="0" beginPosY="0" beginRot="0" beginScaleX="1" beginScaleY="1" endPosX="0" endPosY="0" endRot="0" endScaleX="1" endScaleY="1" ease="true" easeOut="true" />
+        <ImageObject imagePath="Assets/Resources/images/Visuel/Scene_03/texto1.png" isImage="true" appearAfterSentence="true" animDuration="0.5" beginPosX="600" beginPosY="300" beginRot="0" beginScaleX="0" beginScaleY="0.25" endPosX="600" endPosY="300" endRot="0" endScaleX="0.25" endScaleY="0.25" ease="true" easeOut="true" />
+      </Images>
+      <Sounds />
+      <Themes>
+        <SoundObject soundPath="" soundName="" delayBeforeAppear="0" fadeInDuration="0" fadeOutDuration="0" loop="false" />
+      </Themes>
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="3002" checkbox="false" text="Je devrais déjà être rentré..." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="  " delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="3003" checkbox="false" text="Je ne pensais sortir qu’une heure ou deux, mais cela fait plus de trois heures que j’ai quitté le Centre sans autorisation." fade="false" fadeDuration="1" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="  " delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes>
+        <SoundObject soundPath="" soundName="" delayBeforeAppear="0" fadeInDuration="0" fadeOutDuration="0" loop="false" />
+      </Themes>
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="3004" checkbox="false" text="J’ai forcé la main d’Abigaelle pour qu’elle me couvre en cas de problème, mais il faut que je rentre rapidement, sinon elle va finir par me tuer." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="  " delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="3005" checkbox="false" text="Officiellement, “Aby” est mon accompagnatrice attitrée." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="  " delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="3006" checkbox="false" text="C’est elle qui organise mon existence : de la composition de mes repas jusqu’à mes heures de repos." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="  " delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="3007" checkbox="false" text="Officieusement, son rôle est de me surveiller, de s’assurer que je suis bien les instructions et que je ne « dérape  pas », pour reprendre ses termes !" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="  " delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="3008" checkbox="false" text="Si elle le pouvait, elle contrôlerait sûrement mes rêves, pour vérifier qu’ils sont bien conformes aux protocoles, normes de sécurités et autres réglementations dont personne n’a jamais entendu parler, sauf elle." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="false" stopTheme="false" characterName="  " delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images>
+        <ImageObject imagePath="Assets/Resources/images/Visuel/Scene_03/003.jpg" isImage="true" appearAfterSentence="false" animDuration="0" beginPosX="0" beginPosY="0" beginRot="0" beginScaleX="1" beginScaleY="1" endPosX="0" endPosY="0" endRot="0" endScaleX="1" endScaleY="1" ease="true" easeOut="true" />
+        <ImageObject imagePath="Assets/Resources/images/Visuel/Scene_03/003B.png" isImage="true" appearAfterSentence="false" animDuration="0" beginPosX="0" beginPosY="0" beginRot="0" beginScaleX="1" beginScaleY="1" endPosX="0" endPosY="0" endRot="0" endScaleX="1" endScaleY="1" ease="true" easeOut="true" />
+        <ImageObject imagePath="Assets/Resources/images/Visuel/Scene_03/texto1.png" isImage="true" appearAfterSentence="false" animDuration="0" beginPosX="600" beginPosY="300" beginRot="0" beginScaleX="0.25" beginScaleY="0.25" endPosX="600" endPosY="300" endRot="0" endScaleX="0.25" endScaleY="0.25" ease="true" easeOut="true" />
+        <ImageObject imagePath="Assets/Resources/images/Visuel/Scene_03/texto2.png" isImage="true" appearAfterSentence="true" animDuration="0.5" beginPosX="635" beginPosY="0" beginRot="0" beginScaleX="0" beginScaleY="0.3" endPosX="635" endPosY="0" endRot="0" endScaleX="0.2" endScaleY="0.3" ease="true" easeOut="true" />
+      </Images>
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="3009" checkbox="false" text="En voilà une bonne question, haha, comme si elle l’ignorait !" fade="false" fadeDuration="1" fadeInDuration="1" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="  " delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes>
+        <SoundObject soundPath="" soundName="" delayBeforeAppear="0" fadeInDuration="0" fadeOutDuration="0" loop="false" />
+      </Themes>
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="4001" checkbox="false" text="Ma montre est remplie de capteurs. Il y en a sûrement dans mes chaussures, ma chemise..." fade="true" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="false" stopTheme="false" characterName="  " delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images>
+        <ImageObject imagePath="Assets/Resources/images/Visuel/Scene_04/004.jpg" isImage="true" appearAfterSentence="false" animDuration="0" beginPosX="0" beginPosY="0" beginRot="0" beginScaleX="1" beginScaleY="1" endPosX="0" endPosY="0" endRot="0" endScaleX="1" endScaleY="1" ease="true" easeOut="true" />
+      </Images>
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="4002" checkbox="false" text="Sans parler de tous les produits qu’ils ont dû m’injecter ces derniers mois." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="  " delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="4003" checkbox="false" text="Je préfère ne pas y penser !" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="  " delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="4004" checkbox="false" text="Aby sait parfaitement où je suis." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="  " delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="4005" checkbox="false" text="J’imagine que c’est sa manière polie de me dire que ma permission est finie et que je dois rentrer." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="  " delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="4006" checkbox="false" text="Cette surveillance imposée l’a toujours mise mal à l’aise." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="  " delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="4007" checkbox="false" text="Aby me manquera, elle." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="  " delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="5001" checkbox="false" text="C’est avec elle que j’ai passé le plus clair de mon temps ces deux dernières années, même si notre relation est toujours restée très professionnelle." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="  " delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="5002" checkbox="false" text="Excusez-moi, savez-vous quand passe le prochain bus ?" fade="true" fadeDuration="1" fadeInDuration="1" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="false" stopTheme="false" characterName="Elliott" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images>
+        <ImageObject imagePath="Assets/Resources/images/Visuel/Scence_05/Background_005A.jpg" isImage="true" appearAfterSentence="false" animDuration="0" beginPosX="0" beginPosY="0" beginRot="0" beginScaleX="1.103125" beginScaleY="1.103125" endPosX="0" endPosY="0" endRot="0" endScaleX="1.103125" endScaleY="1.103125" ease="true" easeOut="true" />
+      </Images>
+      <Sounds />
+      <Themes>
+        <SoundObject soundPath="" soundName="" delayBeforeAppear="0" fadeInDuration="0" fadeOutDuration="0" loop="false" />
+      </Themes>
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="5003" checkbox="false" text="Hum… Je dirais dans trois jours.  Au plus tard." fade="false" fadeDuration="1" fadeInDuration="1" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="true" keepPreviousImages="false" stopTheme="false" characterName="Homme sur le banc" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images>
+        <ImageObject imagePath="Assets/Resources/images/Visuel/Scence_05/Background_005B.jpg" isImage="true" appearAfterSentence="false" animDuration="0" beginPosX="0" beginPosY="0" beginRot="0" beginScaleX="1.103125" beginScaleY="1.103125" endPosX="0" endPosY="0" endRot="0" endScaleX="1.103125" endScaleY="1.103125" ease="true" easeOut="true" />
+      </Images>
+      <Sounds />
+      <Themes>
+        <SoundObject soundPath="" soundName="" delayBeforeAppear="0" fadeInDuration="0" fadeOutDuration="0" loop="false" />
+      </Themes>
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="5004" checkbox="false" text="Comment ça dans trois jours ?!" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="Elliott" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="5005" checkbox="false" text="Haha ! Toi, tu ne dois pas être du coin !" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="Homme sur le banc" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="5006" checkbox="false" text="Non pas vraiment..." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="Elliott" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="5007" checkbox="false" text="A deux kilomètres d’ici se trouve le pont Dickinson. Et lors de pluies violentes comme ce soir, les autorités en interdisent l'accès pour des raisons de sécurité." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="Homme sur le banc" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="5008" checkbox="false" text="Donc pas de bus tant qu’il pleut si je comprends bien..." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="Elliott" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="5009" checkbox="false" text="Hé non !" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="Homme sur le banc" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="5010" checkbox="false" text="C'est bien le moment !" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="Elliott" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="6001" checkbox="false" text="Il a raison, je ne connais pas bien la région." fade="true" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="false" stopTheme="false" characterName="  " delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images>
+        <ImageObject imagePath="Assets/Resources/images/Visuel/Scene_06/006.jpg" isImage="true" appearAfterSentence="false" animDuration="0" beginPosX="0" beginPosY="0" beginRot="0" beginScaleX="1" beginScaleY="1" endPosX="0" endPosY="0" endRot="0" endScaleX="1" endScaleY="1" ease="true" easeOut="true" />
+      </Images>
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="6002" checkbox="false" text="Cela fait deux ans que je suis arrivé ici, mais je n’ai jamais vraiment eu le temps de visiter." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="  " delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="6003" checkbox="false" text="Entre le planning des entraînements et les réunions avec le reste de l’équipe, je trouve à peine le temps de me reposer." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="  " delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="6004" checkbox="false" text="Mes contacts avec le monde extérieur sont devenus presque inexistants et je ne m’aventure guère au-delà des limites du Centre..." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="  " delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="6005" checkbox="false" text="Ça n’a pas l’air d'être la grande forme ?" fade="true" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="false" stopTheme="false" characterName="Homme sur le banc" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images>
+        <ImageObject imagePath="Assets/Resources/images/Visuel/Scence_07/007.jpg" isImage="true" appearAfterSentence="false" animDuration="0" beginPosX="0" beginPosY="0" beginRot="0" beginScaleX="1" beginScaleY="1" endPosX="0" endPosY="0" endRot="0" endScaleX="1" endScaleY="1" ease="true" easeOut="true" />
+      </Images>
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="6006" checkbox="false" text="Je devrais être au boulot... Je pensais m'éclipser discrètement une petite heure le temps de m'aérer un peu l'esprit." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="Elliott" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="6007" checkbox="false" text="Au boulot ? A cette heure-là ? Mais Il fait déjà nuit !" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="Homme sur le banc" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="6008" checkbox="false" text="Oui, une grande partie de mon travail se passe de nuit." fade="true" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="false" stopTheme="false" characterName="Elliott" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images>
+        <ImageObject imagePath="Assets/Resources/images/Visuel/Scene_08/008.jpg" isImage="true" appearAfterSentence="false" animDuration="0" beginPosX="0" beginPosY="0" beginRot="0" beginScaleX="1" beginScaleY="1" endPosX="0" endPosY="0" endRot="0" endScaleX="1" endScaleY="1" ease="true" easeOut="true" />
+      </Images>
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="6009" checkbox="false" text="T’es dans quelle branche ? Restauration ? Gardien de parking ?" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" characterName="Homme sur le banc" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="6010" checkbox="false" text="Non, scientifique. Je travaille au centre de recherche, et ce soir j’avais une réunion importante avec le reste de l’équipe..." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="false" stopTheme="false" characterName="Elliott" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images>
+        <ImageObject imagePath="Assets/Resources/images/Visuel/Scene_08/008.jpg" isImage="true" appearAfterSentence="false" animDuration="0" beginPosX="0" beginPosY="0" beginRot="0" beginScaleX="1" beginScaleY="1" endPosX="0" endPosY="0" endRot="0" endScaleX="1" endScaleY="1" ease="true" easeOut="true" />
+        <ImageObject imagePath="Assets/Resources/images/Visuel/fin/fin.jpg" isImage="true" appearAfterSentence="true" animDuration="0" beginPosX="0" beginPosY="0" beginRot="0" beginScaleX="1" beginScaleY="1" endPosX="0" endPosY="0" endRot="0" endScaleX="1" endScaleY="1" ease="true" easeOut="true" />
+      </Images>
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="7001" checkbox="false" text="Il a raison, je ne connais pas bien la région." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="7002" checkbox="false" text="Cela fait deux ans que je suis arrivé ici, mais je n’ai jamais vraiment eu le temps de visiter." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="7003" checkbox="false" text="Entre le planning des entraînements et les réunions avec le reste de l’équipe, je trouve à peine le temps de me reposer." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="7004" checkbox="false" text="Mes contacts avec le monde extérieur sont devenus presque inexistants et je ne m’aventure guère au-delà des limites du Centre..." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="7005" checkbox="false" text="Ça n’a pas l’air d'être la grande forme ?" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="7006" checkbox="false" text="Je devrais être au boulot... Je pensais m'éclipser discrètement une petite heure le temps de m'aérer un peu l'esprit." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="7007" checkbox="false" text="Au boulot ? A cette heure-là ? Mais Il fait déjà nuit !" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="7008" checkbox="false" text="Oui, une grande partie de mon travail se passe de nuit." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="7009" checkbox="false" text="T’es dans quelle branche ? Restauration ? Gardien de parking ?" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="7010" checkbox="false" text="Non, scientifique. Je travaille au centre de recherche, et ce soir j’avais une réunion importante avec le reste de l’équipe..." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="8001" checkbox="false" text="Il a raison, je ne connais pas bien la région." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="8002" checkbox="false" text="Cela fait deux ans que je suis arrivé ici, mais je n’ai jamais vraiment eu le temps de visiter." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="8003" checkbox="false" text="Entre le planning des entraînements et les réunions avec le reste de l’équipe, je trouve à peine le temps de me reposer." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="8004" checkbox="false" text="Mes contacts avec le monde extérieur sont devenus presque inexistants et je ne m’aventure guère au-delà des limites du Centre..." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="8005" checkbox="false" text="Ça n’a pas l’air d'être la grande forme ?" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="8006" checkbox="false" text="Je devrais être au boulot... Je pensais m'éclipser discrètement une petite heure le temps de m'aérer un peu l'esprit." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="8007" checkbox="false" text="Au boulot ? A cette heure-là ? Mais Il fait déjà nuit !" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="8008" checkbox="false" text="Oui, une grande partie de mon travail se passe de nuit." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="8009" checkbox="false" text="T’es dans quelle branche ? Restauration ? Gardien de parking ?" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="8010" checkbox="false" text="Non, scientifique. Je travaille au centre de recherche, et ce soir j’avais une réunion importante avec le reste de l’équipe..." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="9001" checkbox="false" text="Il a raison, je ne connais pas bien la région." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="9002" checkbox="false" text="Cela fait deux ans que je suis arrivé ici, mais je n’ai jamais vraiment eu le temps de visiter." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="9003" checkbox="false" text="Entre le planning des entraînements et les réunions avec le reste de l’équipe, je trouve à peine le temps de me reposer." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="9004" checkbox="false" text="Mes contacts avec le monde extérieur sont devenus presque inexistants et je ne m’aventure guère au-delà des limites du Centre..." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="9005" checkbox="false" text="Ça n’a pas l’air d'être la grande forme ?" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="9006" checkbox="false" text="Je devrais être au boulot... Je pensais m'éclipser discrètement une petite heure le temps de m'aérer un peu l'esprit." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="9007" checkbox="false" text="Au boulot ? A cette heure-là ? Mais Il fait déjà nuit !" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="9008" checkbox="false" text="Oui, une grande partie de mon travail se passe de nuit." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="9009" checkbox="false" text="T’es dans quelle branche ? Restauration ? Gardien de parking ?" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="9010" checkbox="false" text="Non, scientifique. Je travaille au centre de recherche, et ce soir j’avais une réunion importante avec le reste de l’équipe..." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="10001" checkbox="false" text="Il a raison, je ne connais pas bien la région." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="10002" checkbox="false" text="Cela fait deux ans que je suis arrivé ici, mais je n’ai jamais vraiment eu le temps de visiter." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="10003" checkbox="false" text="Entre le planning des entraînements et les réunions avec le reste de l’équipe, je trouve à peine le temps de me reposer." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="10004" checkbox="false" text="Mes contacts avec le monde extérieur sont devenus presque inexistants et je ne m’aventure guère au-delà des limites du Centre..." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="10005" checkbox="false" text="Ça n’a pas l’air d'être la grande forme ?" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="10006" checkbox="false" text="Je devrais être au boulot... Je pensais m'éclipser discrètement une petite heure le temps de m'aérer un peu l'esprit." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="10007" checkbox="false" text="Au boulot ? A cette heure-là ? Mais Il fait déjà nuit !" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="10008" checkbox="false" text="Oui, une grande partie de mon travail se passe de nuit." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="10009" checkbox="false" text="T’es dans quelle branche ? Restauration ? Gardien de parking ?" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="10010" checkbox="false" text="Non, scientifique. Je travaille au centre de recherche, et ce soir j’avais une réunion importante avec le reste de l’équipe..." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="11001" checkbox="false" text="Il a raison, je ne connais pas bien la région." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="11002" checkbox="false" text="Cela fait deux ans que je suis arrivé ici, mais je n’ai jamais vraiment eu le temps de visiter." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="11003" checkbox="false" text="Entre le planning des entraînements et les réunions avec le reste de l’équipe, je trouve à peine le temps de me reposer." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="11004" checkbox="false" text="Mes contacts avec le monde extérieur sont devenus presque inexistants et je ne m’aventure guère au-delà des limites du Centre..." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="11005" checkbox="false" text="Ça n’a pas l’air d'être la grande forme ?" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="11006" checkbox="false" text="Je devrais être au boulot... Je pensais m'éclipser discrètement une petite heure le temps de m'aérer un peu l'esprit." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="11007" checkbox="false" text="Au boulot ? A cette heure-là ? Mais Il fait déjà nuit !" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="11008" checkbox="false" text="Oui, une grande partie de mon travail se passe de nuit." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="11009" checkbox="false" text="T’es dans quelle branche ? Restauration ? Gardien de parking ?" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="11010" checkbox="false" text="Non, scientifique. Je travaille au centre de recherche, et ce soir j’avais une réunion importante avec le reste de l’équipe..." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="12001" checkbox="false" text="Il a raison, je ne connais pas bien la région." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="12002" checkbox="false" text="Cela fait deux ans que je suis arrivé ici, mais je n’ai jamais vraiment eu le temps de visiter." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="12003" checkbox="false" text="Entre le planning des entraînements et les réunions avec le reste de l’équipe, je trouve à peine le temps de me reposer." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="12004" checkbox="false" text="Mes contacts avec le monde extérieur sont devenus presque inexistants et je ne m’aventure guère au-delà des limites du Centre..." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="12005" checkbox="false" text="Ça n’a pas l’air d'être la grande forme ?" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="12006" checkbox="false" text="Je devrais être au boulot... Je pensais m'éclipser discrètement une petite heure le temps de m'aérer un peu l'esprit." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="12007" checkbox="false" text="Au boulot ? A cette heure-là ? Mais Il fait déjà nuit !" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="12008" checkbox="false" text="Oui, une grande partie de mon travail se passe de nuit." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="12009" checkbox="false" text="T’es dans quelle branche ? Restauration ? Gardien de parking ?" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="12010" checkbox="false" text="Non, scientifique. Je travaille au centre de recherche, et ce soir j’avais une réunion importante avec le reste de l’équipe..." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="13001" checkbox="false" text="Il a raison, je ne connais pas bien la région." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="13002" checkbox="false" text="Cela fait deux ans que je suis arrivé ici, mais je n’ai jamais vraiment eu le temps de visiter." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="13003" checkbox="false" text="Entre le planning des entraînements et les réunions avec le reste de l’équipe, je trouve à peine le temps de me reposer." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="13004" checkbox="false" text="Mes contacts avec le monde extérieur sont devenus presque inexistants et je ne m’aventure guère au-delà des limites du Centre..." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="13005" checkbox="false" text="Ça n’a pas l’air d'être la grande forme ?" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="13006" checkbox="false" text="Je devrais être au boulot... Je pensais m'éclipser discrètement une petite heure le temps de m'aérer un peu l'esprit." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="13007" checkbox="false" text="Au boulot ? A cette heure-là ? Mais Il fait déjà nuit !" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="13008" checkbox="false" text="Oui, une grande partie de mon travail se passe de nuit." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="13009" checkbox="false" text="T’es dans quelle branche ? Restauration ? Gardien de parking ?" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="13010" checkbox="false" text="Non, scientifique. Je travaille au centre de recherche, et ce soir j’avais une réunion importante avec le reste de l’équipe..." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="14001" checkbox="false" text="Il a raison, je ne connais pas bien la région." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="14002" checkbox="false" text="Cela fait deux ans que je suis arrivé ici, mais je n’ai jamais vraiment eu le temps de visiter." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="14003" checkbox="false" text="Entre le planning des entraînements et les réunions avec le reste de l’équipe, je trouve à peine le temps de me reposer." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="14004" checkbox="false" text="Mes contacts avec le monde extérieur sont devenus presque inexistants et je ne m’aventure guère au-delà des limites du Centre..." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="14005" checkbox="false" text="Ça n’a pas l’air d'être la grande forme ?" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="14006" checkbox="false" text="Je devrais être au boulot... Je pensais m'éclipser discrètement une petite heure le temps de m'aérer un peu l'esprit." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="14007" checkbox="false" text="Au boulot ? A cette heure-là ? Mais Il fait déjà nuit !" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="14008" checkbox="false" text="Oui, une grande partie de mon travail se passe de nuit." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="14009" checkbox="false" text="T’es dans quelle branche ? Restauration ? Gardien de parking ?" fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+    <SentenceObject index="14010" checkbox="false" text="Non, scientifique. Je travaille au centre de recherche, et ce soir j’avais une réunion importante avec le reste de l’équipe..." fade="false" fadeDuration="0" fadeInDuration="0" fadeColorR="0" fadeColorG="0" fadeColorB="0" crossfade="false" keepPreviousImages="true" stopTheme="false" delayBeforeAppear="0" inaccessible="false" isSMS="false">
+      <Images />
+      <Sounds />
+      <Themes />
+      <Choices />
+    </SentenceObject>
+  </Sentences>
+  <Characters>
+    <CharacterObject name="  " colorR="1" colorG="1" colorB="1" isLeft="false" />
+    <CharacterObject name="Elliott" colorR="0.545098066" colorG="0.572549045" colorB="0.450980425" isLeft="true" />
+    <CharacterObject name="Homme sur le banc" colorR="0.533333361" colorG="0.6039216" colorB="0.7019608" isLeft="false" />
+  </Characters>
+  <translations>
+    <TranslationObject language="french">
+      <newImagesPaths>
+        <string>Assets/Resources/images/Visuel/Scene_02/002B.png</string>
+        <string>Assets/Resources/images/Visuel/Scene_03/003B.png</string>
+        <string>Assets/Resources/images/Visuel/Start Menu/commencer.png</string>
+      </newImagesPaths>
+      <newTexts />
+    </TranslationObject>
+    <TranslationObject language="english">
+      <newImagesPaths>
+        <string>Assets/Resources/images/Visuel/Scene_03/003B.png</string>
+        <string>Assets/Resources/images/Visuel/Scene_04/004.jpg</string>
+        <string>Assets/Resources/images/Visuel/Start Menu/credits.png</string>
+      </newImagesPaths>
+      <newTexts />
+    </TranslationObject>
+    <TranslationObject language="spanish">
+      <newImagesPaths>
+        <string>Assets/Resources/images/Visuel/Scene_03/003B.png</string>
+        <string>Assets/Resources/images/Visuel/Scene_04/004.jpg</string>
+        <string>Assets/Resources/images/Visuel/Start Menu/quiter.png</string>
+      </newImagesPaths>
+      <newTexts />
+    </TranslationObject>
+    <TranslationObject language="italian">
+      <newImagesPaths>
+        <string>Assets/Resources/images/Visuel/Scene_03/003B.png</string>
+        <string>Assets/Resources/images/Visuel/Scene_04/004.jpg</string>
+        <string>Assets/Resources/images/Visuel/Start Menu/langues.png</string>
+      </newImagesPaths>
+      <newTexts />
+    </TranslationObject>
+    <TranslationObject language="german">
+      <newImagesPaths>
+        <string>Assets/Resources/images/Visuel/Scene_03/003B.png</string>
+        <string>Assets/Resources/images/Visuel/Scene_04/004.jpg</string>
+        <string>Assets/Resources/images/Visuel/Start Menu/reprendre.png</string>
+      </newImagesPaths>
+      <newTexts />
+    </TranslationObject>
+  </translations>
+</TextObject>

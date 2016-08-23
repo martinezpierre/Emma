@@ -1,0 +1,278 @@
+
+[1]
+<1>
+Quel temps de chien !
+<2>
+S’il y a bien une chose que je ne regretterai pas, c’est cette foutue météo !
+<3>
+Mais quand j’y réfléchi, je me dis qu’il n’y a pas tellement de choses qui me vont manquer en vérité.
+<4>
+Probablement mes deux, trois amis, au début.
+<5>
+Et encore, cela fait déjà quelques temps que l’on ne se voit plus beaucoup.
+
+[2]
+<1>
+Mon chat, lui, sera sûrement plus heureux chez quelqu’un d’autre...
+<2>
+Je pensais que partir serait plus difficile.
+<3>
+Ce qui est sûr, c’est que je me casse !
+<4>
+Fini la pluie, les bus en retards, les téléphones qui vous harcèlent toute la journée !
+
+[3]
+<1>
+Je quitte ce trou pour rejoindre ma petite Emma ! Enfin !
+<2>
+Je devrais déjà être rentré...
+<3>
+Je ne pensais sortir qu’une heure ou deux, mais cela fait plus de trois heures que j’ai quitté le Centre sans autorisation.
+<4>
+J’ai forcé la main d’Abigaelle pour qu’elle me couvre en cas de problème, mais il faut que je rentre rapidement, sinon elle va finir par me tuer.
+<5>
+Officiellement, “Aby” est mon accompagnatrice attitrée.
+<6>
+C’est elle qui organise mon existence : de la composition de mes repas jusqu’à mes heures de repos.
+<7>
+Officieusement, son rôle est de me surveiller, de s’assurer que je suis bien les instructions et que je ne « dérape  pas », pour reprendre ses termes !
+<8>
+Si elle le pouvait, elle contrôlerait sûrement mes rêves, pour vérifier qu’ils sont bien conformes aux protocoles, normes de sécurités et autres réglementations dont personne n’a jamais entendu parler, sauf elle.
+<9>
+En voilà une bonne question, haha, comme si elle l’ignorait !
+
+[4]
+<1>
+Ma montre est remplie de capteurs. Il y en a sûrement dans mes chaussures, ma chemise...
+<2>
+Sans parler de tous les produits qu’ils ont dû m’injecter ces derniers mois.
+<3>
+Je préfère ne pas y penser !
+<4>
+Aby sait parfaitement où je suis.
+<5>
+J’imagine que c’est sa manière polie de me dire que ma permission est finie et que je dois rentrer.
+<6>
+Cette surveillance imposée l’a toujours mise mal à l’aise.
+<7>
+Aby me manquera, elle.
+
+[5]
+<1>
+C’est avec elle que j’ai passé le plus clair de mon temps ces deux dernières années, même si notre relation est toujours restée très professionnelle.
+<2>
+Excusez-moi, savez-vous quand passe le prochain bus ?
+<3>
+Hum… Je dirais dans trois jours.  Au plus tard.
+<4>
+Comment ça dans trois jours ?!
+<5>
+Haha ! Toi, tu ne dois pas être du coin !
+<6>
+Non pas vraiment...
+<7>
+A deux kilomètres d’ici se trouve le pont Dickinson. Et lors de pluies violentes comme ce soir, les autorités en interdisent l'accès pour des raisons de sécurité.
+<8>
+Donc pas de bus tant qu’il pleut si je comprends bien...
+<9>
+Hé non !
+<10>
+C'est bien le moment !
+
+[6]
+<1>
+Il a raison, je ne connais pas bien la région.
+<2>
+Cela fait deux ans que je suis arrivé ici, mais je n’ai jamais vraiment eu le temps de visiter.
+<3>
+Entre le planning des entraînements et les réunions avec le reste de l’équipe, je trouve à peine le temps de me reposer.
+<4>
+Mes contacts avec le monde extérieur sont devenus presque inexistants et je ne m’aventure guère au-delà des limites du Centre...
+<5>
+Ça n’a pas l’air d'être la grande forme ?
+<6>
+Je devrais être au boulot... Je pensais m'éclipser discrètement une petite heure le temps de m'aérer un peu l'esprit.
+<7>
+Au boulot ? A cette heure-là ? Mais Il fait déjà nuit !
+<8>
+Oui, une grande partie de mon travail se passe de nuit.
+<9>
+T’es dans quelle branche ? Restauration ? Gardien de parking ?
+<10>
+Non, scientifique. Je travaille au centre de recherche, et ce soir j’avais une réunion importante avec le reste de l’équipe...
+
+[7]
+<1>
+Il a raison, je ne connais pas bien la région.
+<2>
+Cela fait deux ans que je suis arrivé ici, mais je n’ai jamais vraiment eu le temps de visiter.
+<3>
+Entre le planning des entraînements et les réunions avec le reste de l’équipe, je trouve à peine le temps de me reposer.
+<4>
+Mes contacts avec le monde extérieur sont devenus presque inexistants et je ne m’aventure guère au-delà des limites du Centre...
+<5>
+Ça n’a pas l’air d'être la grande forme ?
+<6>
+Je devrais être au boulot... Je pensais m'éclipser discrètement une petite heure le temps de m'aérer un peu l'esprit.
+<7>
+Au boulot ? A cette heure-là ? Mais Il fait déjà nuit !
+<8>
+Oui, une grande partie de mon travail se passe de nuit.
+<9>
+T’es dans quelle branche ? Restauration ? Gardien de parking ?
+<10>
+Non, scientifique. Je travaille au centre de recherche, et ce soir j’avais une réunion importante avec le reste de l’équipe...
+
+[8]
+<1>
+Il a raison, je ne connais pas bien la région.
+<2>
+Cela fait deux ans que je suis arrivé ici, mais je n’ai jamais vraiment eu le temps de visiter.
+<3>
+Entre le planning des entraînements et les réunions avec le reste de l’équipe, je trouve à peine le temps de me reposer.
+<4>
+Mes contacts avec le monde extérieur sont devenus presque inexistants et je ne m’aventure guère au-delà des limites du Centre...
+<5>
+Ça n’a pas l’air d'être la grande forme ?
+<6>
+Je devrais être au boulot... Je pensais m'éclipser discrètement une petite heure le temps de m'aérer un peu l'esprit.
+<7>
+Au boulot ? A cette heure-là ? Mais Il fait déjà nuit !
+<8>
+Oui, une grande partie de mon travail se passe de nuit.
+<9>
+T’es dans quelle branche ? Restauration ? Gardien de parking ?
+<10>
+Non, scientifique. Je travaille au centre de recherche, et ce soir j’avais une réunion importante avec le reste de l’équipe...
+
+[9]
+<1>
+Il a raison, je ne connais pas bien la région.
+<2>
+Cela fait deux ans que je suis arrivé ici, mais je n’ai jamais vraiment eu le temps de visiter.
+<3>
+Entre le planning des entraînements et les réunions avec le reste de l’équipe, je trouve à peine le temps de me reposer.
+<4>
+Mes contacts avec le monde extérieur sont devenus presque inexistants et je ne m’aventure guère au-delà des limites du Centre...
+<5>
+Ça n’a pas l’air d'être la grande forme ?
+<6>
+Je devrais être au boulot... Je pensais m'éclipser discrètement une petite heure le temps de m'aérer un peu l'esprit.
+<7>
+Au boulot ? A cette heure-là ? Mais Il fait déjà nuit !
+<8>
+Oui, une grande partie de mon travail se passe de nuit.
+<9>
+T’es dans quelle branche ? Restauration ? Gardien de parking ?
+<10>
+Non, scientifique. Je travaille au centre de recherche, et ce soir j’avais une réunion importante avec le reste de l’équipe...
+
+[10]
+<1>
+Il a raison, je ne connais pas bien la région.
+<2>
+Cela fait deux ans que je suis arrivé ici, mais je n’ai jamais vraiment eu le temps de visiter.
+<3>
+Entre le planning des entraînements et les réunions avec le reste de l’équipe, je trouve à peine le temps de me reposer.
+<4>
+Mes contacts avec le monde extérieur sont devenus presque inexistants et je ne m’aventure guère au-delà des limites du Centre...
+<5>
+Ça n’a pas l’air d'être la grande forme ?
+<6>
+Je devrais être au boulot... Je pensais m'éclipser discrètement une petite heure le temps de m'aérer un peu l'esprit.
+<7>
+Au boulot ? A cette heure-là ? Mais Il fait déjà nuit !
+<8>
+Oui, une grande partie de mon travail se passe de nuit.
+<9>
+T’es dans quelle branche ? Restauration ? Gardien de parking ?
+<10>
+Non, scientifique. Je travaille au centre de recherche, et ce soir j’avais une réunion importante avec le reste de l’équipe...
+
+[11]
+<1>
+Il a raison, je ne connais pas bien la région.
+<2>
+Cela fait deux ans que je suis arrivé ici, mais je n’ai jamais vraiment eu le temps de visiter.
+<3>
+Entre le planning des entraînements et les réunions avec le reste de l’équipe, je trouve à peine le temps de me reposer.
+<4>
+Mes contacts avec le monde extérieur sont devenus presque inexistants et je ne m’aventure guère au-delà des limites du Centre...
+<5>
+Ça n’a pas l’air d'être la grande forme ?
+<6>
+Je devrais être au boulot... Je pensais m'éclipser discrètement une petite heure le temps de m'aérer un peu l'esprit.
+<7>
+Au boulot ? A cette heure-là ? Mais Il fait déjà nuit !
+<8>
+Oui, une grande partie de mon travail se passe de nuit.
+<9>
+T’es dans quelle branche ? Restauration ? Gardien de parking ?
+<10>
+Non, scientifique. Je travaille au centre de recherche, et ce soir j’avais une réunion importante avec le reste de l’équipe...
+
+[12]
+<1>
+Il a raison, je ne connais pas bien la région.
+<2>
+Cela fait deux ans que je suis arrivé ici, mais je n’ai jamais vraiment eu le temps de visiter.
+<3>
+Entre le planning des entraînements et les réunions avec le reste de l’équipe, je trouve à peine le temps de me reposer.
+<4>
+Mes contacts avec le monde extérieur sont devenus presque inexistants et je ne m’aventure guère au-delà des limites du Centre...
+<5>
+Ça n’a pas l’air d'être la grande forme ?
+<6>
+Je devrais être au boulot... Je pensais m'éclipser discrètement une petite heure le temps de m'aérer un peu l'esprit.
+<7>
+Au boulot ? A cette heure-là ? Mais Il fait déjà nuit !
+<8>
+Oui, une grande partie de mon travail se passe de nuit.
+<9>
+T’es dans quelle branche ? Restauration ? Gardien de parking ?
+<10>
+Non, scientifique. Je travaille au centre de recherche, et ce soir j’avais une réunion importante avec le reste de l’équipe...
+
+[13]
+<1>
+Il a raison, je ne connais pas bien la région.
+<2>
+Cela fait deux ans que je suis arrivé ici, mais je n’ai jamais vraiment eu le temps de visiter.
+<3>
+Entre le planning des entraînements et les réunions avec le reste de l’équipe, je trouve à peine le temps de me reposer.
+<4>
+Mes contacts avec le monde extérieur sont devenus presque inexistants et je ne m’aventure guère au-delà des limites du Centre...
+<5>
+Ça n’a pas l’air d'être la grande forme ?
+<6>
+Je devrais être au boulot... Je pensais m'éclipser discrètement une petite heure le temps de m'aérer un peu l'esprit.
+<7>
+Au boulot ? A cette heure-là ? Mais Il fait déjà nuit !
+<8>
+Oui, une grande partie de mon travail se passe de nuit.
+<9>
+T’es dans quelle branche ? Restauration ? Gardien de parking ?
+<10>
+Non, scientifique. Je travaille au centre de recherche, et ce soir j’avais une réunion importante avec le reste de l’équipe...
+
+[14]
+<1>
+Il a raison, je ne connais pas bien la région.
+<2>
+Cela fait deux ans que je suis arrivé ici, mais je n’ai jamais vraiment eu le temps de visiter.
+<3>
+Entre le planning des entraînements et les réunions avec le reste de l’équipe, je trouve à peine le temps de me reposer.
+<4>
+Mes contacts avec le monde extérieur sont devenus presque inexistants et je ne m’aventure guère au-delà des limites du Centre...
+<5>
+Ça n’a pas l’air d'être la grande forme ?
+<6>
+Je devrais être au boulot... Je pensais m'éclipser discrètement une petite heure le temps de m'aérer un peu l'esprit.
+<7>
+Au boulot ? A cette heure-là ? Mais Il fait déjà nuit !
+<8>
+Oui, une grande partie de mon travail se passe de nuit.
+<9>
+T’es dans quelle branche ? Restauration ? Gardien de parking ?
+<10>
+Non, scientifique. Je travaille au centre de recherche, et ce soir j’avais une réunion importante avec le reste de l’équipe...
